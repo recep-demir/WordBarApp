@@ -1,0 +1,1774 @@
+[
+  {
+    "word": "cultivated",
+    "meaning": "kültürlü, işlenmiş, gelişmiş",
+    "example": "He is a very cultivated person who enjoys the history of Lucerne.",
+    "isLearned": false,
+    "pronunciation": "['kʌltɪveɪtɪd]"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "kaçınılmaz",
+    "example": "Bugs are inevitable, but regular commits help us track them.",
+    "isLearned": false,
+    "pronunciation": "[ɪn'ɛvɪtəbl]"
+  },
+  {
+    "word": "revenge",
+    "meaning": "intikam",
+    "example": "The movie was about a man seeking revenge for his family.",
+    "isLearned": false,
+    "pronunciation": "[rɪ'vɛndʒ]"
+  },
+  {
+    "word": "seek",
+    "meaning": "aramak, peşinde koşmak",
+    "example": "I seek new job opportunities in web development in Switzerland.",
+    "isLearned": false,
+    "pronunciation": "[siːk]"
+  },
+  {
+    "word": "weigh",
+    "meaning": "tartmak, ölçüp biçmek",
+    "example": "We should weigh the pros and cons of using a new library.",
+    "isLearned": false,
+    "pronunciation": "[weɪ]"
+  },
+  {
+    "word": "stay up",
+    "meaning": "uyanık kalmak, sabahlamak",
+    "example": "I had to stay up late to fix the deployment issue.",
+    "isLearned": false,
+    "pronunciation": "[steɪ ʌp]"
+  },
+  {
+    "word": "elder",
+    "meaning": "yaşça büyük, kıdemli",
+    "example": "My elder brother also lives in Turkey.",
+    "isLearned": false,
+    "pronunciation": "['ɛldər]"
+  },
+  {
+    "word": "conspiracy",
+    "meaning": "komplo",
+    "example": "There are many conspiracy theories about artificial intelligence.",
+    "isLearned": false,
+    "pronunciation": "[kən'spɪrəsi]"
+  },
+  {
+    "word": "distorted",
+    "meaning": "bozulmuş, çarpıtılmış",
+    "example": "The audio was distorted during the remote meeting.",
+    "isLearned": false,
+    "pronunciation": "[dɪ'stɔːrtɪd]"
+  },
+  {
+    "word": "intentional",
+    "meaning": "kasıtlı, bilerek",
+    "example": "That design choice was intentional to improve user experience.",
+    "isLearned": false,
+    "pronunciation": "[ɪn'tɛnʃənəl]"
+  },
+  {
+    "word": "bash",
+    "meaning": "sertçe vurmak, (IT) komut satırı",
+    "example": "I run my scripts using Bash on my MacBook Air 15.",
+    "isLearned": false,
+    "pronunciation": "[bæʃ]"
+  },
+  {
+    "word": "observance",
+    "meaning": "kurallara uyma, kutlama",
+    "example": "Strict observance of coding standards is required in our team.",
+    "isLearned": false,
+    "pronunciation": "[əb'zɜːrvəns]"
+  },
+  {
+    "word": "enable",
+    "meaning": "etkinleştirmek, olanak sağlamak",
+    "example": "You need to enable the 'Strict Mode' in your React application.",
+    "isLearned": false,
+    "pronunciation": "[ɪ'neɪbl]"
+  },
+  {
+    "word": "delicate",
+    "meaning": "hassas, narin",
+    "example": "Refactoring this old code is a very delicate task.",
+    "isLearned": false,
+    "pronunciation": "['dɛlɪkət]"
+  },
+  {
+    "word": "as though",
+    "meaning": "sanki, -mış gibi",
+    "example": "He spoke as though he had years of experience in React.",
+    "isLearned": false,
+    "pronunciation": "[æz ðoʊ]"
+  },
+  {
+    "word": "immobile",
+    "meaning": "hareketsiz",
+    "example": "The computer was immobile while the heavy process was running.",
+    "isLearned": false,
+    "pronunciation": "[ɪ'moʊbəl]"
+  },
+  {
+    "word": "resemblance",
+    "meaning": "benzerlik",
+    "example": "There is a strong resemblance between these two UI frameworks.",
+    "isLearned": false,
+    "pronunciation": "[rɪ'zɛmbləns]"
+  },
+  {
+    "word": "vain",
+    "meaning": "boşuna, beyhude",
+    "example": "All my attempts to fix the server were in vain.",
+    "isLearned": false,
+    "pronunciation": "[veɪn]"
+  },
+  {
+    "word": "hideous",
+    "meaning": "iğrenç, çok çirkin",
+    "example": "The default error page was absolutely hideous.",
+    "isLearned": false,
+    "pronunciation": "['hɪdiəs]"
+  },
+  {
+    "word": "flatter",
+    "meaning": "yağ çekmek, aşırı övmek",
+    "example": "I was flattered when the lead dev praised my code structure.",
+    "isLearned": false,
+    "pronunciation": "['flætər]"
+  },
+  {
+    "word": "immensely",
+    "meaning": "çok fazla, son derece",
+    "example": "The Powercoders bootcamp helped me immensely.",
+    "isLearned": false,
+    "pronunciation": "[ɪ'mɛnsli]"
+  },
+  {
+    "word": "deception",
+    "meaning": "aldatma, hile",
+    "example": "We must protect users from digital deception.",
+    "isLearned": false,
+    "pronunciation": "[dɪ'sɛpʃən]"
+  },
+  {
+    "word": "daisies",
+    "meaning": "papatyalar",
+    "example": "There are beautiful white daisies in the fields near Lucerne.",
+    "isLearned": false,
+    "pronunciation": "['deɪziz]"
+  },
+  {
+    "word": "tremulous",
+    "meaning": "titrek",
+    "example": "Her voice was tremulous during the final presentation.",
+    "isLearned": false,
+    "pronunciation": "['trɛmjʊləs]"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "durum, koşul",
+    "example": "Under the current circumstance, remote work is preferred.",
+    "isLearned": false,
+    "pronunciation": "['sɜːrkəmstæns]"
+  },
+  {
+    "word": "benefit",
+    "meaning": "fayda, yarar",
+    "example": "Using TypeScript has many benefits for large-scale apps.",
+    "isLearned": false,
+    "pronunciation": "['bɛnɪfɪt]"
+  },
+  {
+    "word": "twinkle",
+    "meaning": "parıldamak, göz kırpmak",
+    "example": "The stars twinkle brightly over the Swiss mountains.",
+    "isLearned": false,
+    "pronunciation": "['twɪŋkəl]"
+  },
+  {
+    "word": "clarity",
+    "meaning": "açıklık, netlik",
+    "example": "Good documentation provides clarity for the whole team.",
+    "isLearned": false,
+    "pronunciation": "['klærəti]"
+  },
+  {
+    "word": "flow",
+    "meaning": "akış",
+    "example": "The user flow of the checkout page is very smooth.",
+    "isLearned": false,
+    "pronunciation": "[floʊ]"
+  },
+  {
+    "word": "plot",
+    "meaning": "olay örgüsü, plan",
+    "example": "The plot of the movie was hard to follow.",
+    "isLearned": false,
+    "pronunciation": "[plɒt]"
+  },
+  {
+    "word": "characterized",
+    "meaning": "karakterize edilmiş",
+    "example": "Modern web apps are characterized by high interactivity.",
+    "isLearned": false,
+    "pronunciation": "['kærɪktəraɪzd]"
+  },
+  {
+    "word": "span",
+    "meaning": "süre, kapsamak",
+    "example": "The project will span over six months.",
+    "isLearned": false,
+    "pronunciation": "[spæn]"
+  },
+  {
+    "word": "diligence",
+    "meaning": "çalışkanlık, özen",
+    "example": "Success in IT requires constant learning and diligence.",
+    "isLearned": false,
+    "pronunciation": "['dɪlɪdʒəns]"
+  },
+  {
+    "word": "intensify",
+    "meaning": "yoğunlaştırmak",
+    "example": "We need to intensify our testing before the release.",
+    "isLearned": false,
+    "pronunciation": "[ɪn'tɛnsɪfaɪ]"
+  },
+  {
+    "word": "expose",
+    "meaning": "maruz bırakmak, açığa çıkarmak",
+    "example": "Do not expose your API keys in the frontend code.",
+    "isLearned": false,
+    "pronunciation": "[ɪk'spoʊz]"
+  },
+  {
+    "word": "harsh",
+    "meaning": "sert, acımasız",
+    "example": "The feedback on the pull request was a bit harsh.",
+    "isLearned": false,
+    "pronunciation": "[hɑːrʃ]"
+  },
+  {
+    "word": "exposure",
+    "meaning": "maruz kalma",
+    "example": "Long exposure to blue light can tire your eyes.",
+    "isLearned": false,
+    "pronunciation": "[ɪk'spoʊʒər]"
+  },
+  {
+    "word": "through",
+    "meaning": "aracılığıyla, içinden",
+    "example": "We passed through the tunnel on our way to Zurich.",
+    "isLearned": false,
+    "pronunciation": "[θruː]"
+  },
+  {
+    "word": "even",
+    "meaning": "hatta, bile, çift sayı",
+    "example": "Even beginner developers should understand Git.",
+    "isLearned": false,
+    "pronunciation": "['iːvən]"
+  },
+  {
+    "word": "consistency",
+    "meaning": "tutarlılık",
+    "example": "Consistency in code style makes the project maintainable.",
+    "isLearned": false,
+    "pronunciation": "[kən'sɪstənsi]"
+  },
+  {
+    "word": "immersion",
+    "meaning": "derinleşme, daldırma",
+    "example": "Total immersion is the best way to learn German.",
+    "isLearned": false,
+    "pronunciation": "[ɪ'mɜːrʒən]"
+  },
+  {
+    "word": "breakthrough",
+    "meaning": "atılım, dönüm noktası",
+    "example": "This new feature is a major breakthrough for our app.",
+    "isLearned": false,
+    "pronunciation": "['breɪkθruː]"
+  },
+  {
+    "word": "cram",
+    "meaning": "sıkıştırmak, (ders) ineklemek",
+    "example": "I had to cram a lot of info for the AWS exam.",
+    "isLearned": false,
+    "pronunciation": "[kræm]"
+  },
+  {
+    "word": "matter",
+    "meaning": "mesele, önemli olmak",
+    "example": "Clean code matters more than clever code.",
+    "isLearned": false,
+    "pronunciation": "['mætər]"
+  },
+  {
+    "word": "from...right up to...",
+    "meaning": "den ta ...ya kadar",
+    "example": "The course covers everything from HTML right up to Next.js.",
+    "isLearned": false,
+    "pronunciation": "[frəm...raɪt ʌp tuː...]"
+  },
+  {
+    "word": "lone",
+    "meaning": "yalnız, tek",
+    "example": "He was the lone developer on that old project.",
+    "isLearned": false,
+    "pronunciation": "[loʊn]"
+  },
+  {
+    "word": "boast",
+    "meaning": "övünmek",
+    "example": "Switzerland can boast about its beautiful landscapes.",
+    "isLearned": false,
+    "pronunciation": "[boʊst]"
+  },
+  {
+    "word": "intricate",
+    "meaning": "karmaşık",
+    "example": "The intricate details of the database schema were confusing.",
+    "isLearned": false,
+    "pronunciation": "['intrikət]"
+  },
+  {
+    "word": "harmonious",
+    "meaning": "uyumlu",
+    "example": "We have a harmonious team environment at Powercoders.",
+    "isLearned": false,
+    "pronunciation": "[hɑːr'moʊniəs]"
+  },
+  {
+    "word": "restless",
+    "meaning": "huzursuz",
+    "example": "The user became restless because of the slow loading speed.",
+    "isLearned": false,
+    "pronunciation": "['rɛstləs]"
+  },
+  {
+    "word": "urge",
+    "meaning": "zorlamak, dürtü",
+    "example": "I felt an urge to refactor the entire component.",
+    "isLearned": false,
+    "pronunciation": "[ɜːrdʒ]"
+  },
+  {
+    "word": "inquiry",
+    "meaning": "sorgu, soruşturma",
+    "example": "We received an inquiry about our API documentation.",
+    "isLearned": false,
+    "pronunciation": "[ɪn'kwaɪəri]"
+  },
+  {
+    "word": "as well as",
+    "meaning": "yanı sıra, hem de",
+    "example": "I am learning React as well as TypeScript.",
+    "isLearned": false,
+    "pronunciation": "[æz 'wɛl æz]"
+  },
+  {
+    "word": "refer",
+    "meaning": "atıfta bulunmak, yönlendirmek",
+    "example": "Please refer to the documentation for more details.",
+    "isLearned": false,
+    "pronunciation": "[rɪ'fɜːr]"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "anlamak, kavramak",
+    "example": "I can now comprehend complex JavaScript concepts.",
+    "isLearned": false,
+    "pronunciation": "[ˌkɒmprɪ'hɛnd]"
+  },
+  {
+    "word": "grasp",
+    "meaning": "kavramak, tutmak",
+    "example": "He quickly managed to grasp the basics of SQL.",
+    "isLearned": false,
+    "pronunciation": "[ɡræsp]"
+  },
+  {
+    "word": "thrive",
+    "meaning": "gelişmek, serpilmek",
+    "example": "Businesses thrive when they adapt to new technology.",
+    "isLearned": false,
+    "pronunciation": "[θraɪv]"
+  },
+  {
+    "word": "tame",
+    "meaning": "evcilleştirmek, uysal",
+    "example": "We need to tame this wild legacy code.",
+    "isLearned": false,
+    "pronunciation": "[teɪm]"
+  },
+  {
+    "word": "surrounding",
+    "meaning": "çevreleyen",
+    "example": "The mountains surrounding Lucerne are breathtaking.",
+    "isLearned": false,
+    "pronunciation": "[sə'raʊndɪŋ]"
+  },
+  {
+    "word": "as thorough as",
+    "meaning": "kadar titiz/kapsamlı",
+    "example": "The code review was as thorough as I expected.",
+    "isLearned": false,
+    "pronunciation": "[æz 'θʌrə æz]"
+  },
+  {
+    "word": "flaw",
+    "meaning": "kusur, hata",
+    "example": "There is a minor flaw in the logic of this function.",
+    "isLearned": false,
+    "pronunciation": "[flɔː]"
+  },
+  {
+    "word": "looped",
+    "meaning": "döngüye alınmış",
+    "example": "The video on the homepage is looped.",
+    "isLearned": false,
+    "pronunciation": "[luːpt]"
+  },
+  {
+    "word": "conviction",
+    "meaning": "güçlü inanç, mahkumiyet",
+    "example": "He has a strong conviction that open-source is the future.",
+    "isLearned": false,
+    "pronunciation": "[kən'vɪkʃən]"
+  },
+  {
+    "word": "sermon",
+    "meaning": "vaaz",
+    "example": "We listened to a short sermon at the church.",
+    "isLearned": false,
+    "pronunciation": "['sɜːrmən]"
+  },
+  {
+    "word": "corresponding",
+    "meaning": "karşılık gelen",
+    "example": "Find the corresponding ID in the database table.",
+    "isLearned": false,
+    "pronunciation": "[ˌkɒrɪ'spɒndɪŋ]"
+  },
+  {
+    "word": "consolation",
+    "meaning": "teselli",
+    "example": "The only consolation after the server crash was the backup.",
+    "isLearned": false,
+    "pronunciation": "[ˌkɒnsə'leɪʃən]"
+  },
+  {
+    "word": "whereas",
+    "meaning": "oysa, halbuki",
+    "example": "I like rowing, whereas my wife prefers hiking.",
+    "isLearned": false,
+    "pronunciation": "[weər'æz]"
+  },
+  {
+    "word": "scratch",
+    "meaning": "sıfırdan (from scratch), tırmalamak",
+    "example": "I built my portfolio website from scratch using Next.js.",
+    "isLearned": false,
+    "pronunciation": "[skrætʃ]"
+  },
+  {
+    "word": "grieve",
+    "meaning": "yas tutmak",
+    "example": "It is important to let people grieve after a loss.",
+    "isLearned": false,
+    "pronunciation": "[ɡriːv]"
+  },
+  {
+    "word": "catch up",
+    "meaning": "yetişmek, yakalamak",
+    "example": "I need to catch up on the latest React updates.",
+    "isLearned": false,
+    "pronunciation": "[kætʃ ʌp]"
+  },
+  {
+    "word": "across",
+    "meaning": "karşısında, boyunca",
+    "example": "The grocery store is across the street.",
+    "isLearned": false,
+    "pronunciation": "[ə'krɒs]"
+  },
+  {
+    "word": "livestock",
+    "meaning": "çiftlik hayvanları",
+    "example": "Livestock is an important part of the Swiss economy.",
+    "isLearned": false,
+    "pronunciation": "['laɪvstɒk]"
+  },
+  {
+    "word": "outbreak",
+    "meaning": "patlak verme (salgın vb.)",
+    "example": "The outbreak of the virus changed everything.",
+    "isLearned": false,
+    "pronunciation": "['aʊtbreɪk]"
+  },
+  {
+    "word": "in response",
+    "meaning": "yanıt olarak",
+    "example": "In response to the bug, we released a quick patch.",
+    "isLearned": false,
+    "pronunciation": "[ɪn rɪ'spɒns]"
+  },
+  {
+    "word": "except",
+    "meaning": "hariç",
+    "example": "Everyone passed the test except for one student.",
+    "isLearned": false,
+    "pronunciation": "[ɪk'sɛpt]"
+  },
+  {
+    "word": "avid",
+    "meaning": "hevesli, istekli",
+    "example": "I am an avid rower in the Lucerne rowing club.",
+    "isLearned": false,
+    "pronunciation": "['ævɪd]"
+  },
+  {
+    "word": "blur",
+    "meaning": "bulanıklık",
+    "example": "The CSS filter can add a blur effect to images.",
+    "isLearned": false,
+    "pronunciation": "[blɜːr]"
+  },
+  {
+    "word": "stand out",
+    "meaning": "öndeki, göze çarpmak",
+    "example": "Your unique skills will make you stand out in the job market.",
+    "isLearned": false,
+    "pronunciation": "[stænd aʊt]"
+  },
+  {
+    "word": "jot",
+    "meaning": "not etmek (jot down)",
+    "example": "I usually jot down my ideas in a notebook.",
+    "isLearned": false,
+    "pronunciation": "[dʒɒt]"
+  },
+  {
+    "word": "in essence",
+    "meaning": "özünde",
+    "example": "In essence, React is just a JavaScript library.",
+    "isLearned": false,
+    "pronunciation": "[ɪn 'ɛsəns]"
+  },
+  {
+    "word": "vibrant",
+    "meaning": "canlı, enerjik",
+    "example": "Lucerne has a vibrant atmosphere in the summer.",
+    "isLearned": false,
+    "pronunciation": "['vaɪbrənt]"
+  },
+  {
+    "word": "unkempt",
+    "meaning": "bakımsız, dağınık",
+    "example": "His garden looked unkempt after the long winter.",
+    "isLearned": false,
+    "pronunciation": "[ʌn'kɛmpt]"
+  },
+  {
+    "word": "excessive",
+    "meaning": "aşırı",
+    "example": "Excessive logging can slow down the application.",
+    "isLearned": false,
+    "pronunciation": "[ɪk'sɛsɪv]"
+  },
+  {
+    "word": "oneself",
+    "meaning": "kendisi",
+    "example": "One must learn to trust oneself.",
+    "isLearned": false,
+    "pronunciation": "[wʌn'sɛlf]"
+  },
+  {
+    "word": "encourage",
+    "meaning": "cesaretlendirmek",
+    "example": "My teachers encourage me to keep practicing English.",
+    "isLearned": false,
+    "pronunciation": "[ɪn'kʌrɪdʒ]"
+  },
+  {
+    "word": "persuade",
+    "meaning": "ikna etmek",
+    "example": "I tried to persuade him to join the rowing club.",
+    "isLearned": false,
+    "pronunciation": "[pər'sweɪd]"
+  },
+  {
+    "word": "impulse",
+    "meaning": "dürtü",
+    "example": "I bought the MacBook Air on an impulse.",
+    "isLearned": false,
+    "pronunciation": "['ɪmpʌls]"
+  },
+  {
+    "word": "seize",
+    "meaning": "yakalamak, el koymak",
+    "example": "You should seize every opportunity to learn new IT skills.",
+    "isLearned": false,
+    "pronunciation": "[siːz]"
+  },
+  {
+    "word": "put out",
+    "meaning": "söndürmek, zahmet vermek",
+    "example": "The firefighters managed to put out the fire quickly.",
+    "isLearned": false,
+    "pronunciation": "[pʊt aʊt]"
+  },
+  {
+    "word": "ace",
+    "meaning": "as, çok iyi olan",
+    "example": "He is an ace at solving complex algorithms.",
+    "isLearned": false,
+    "pronunciation": "[eɪs]"
+  },
+  {
+    "word": "knock off",
+    "meaning": "işi bırakmak, taklit ürün",
+    "example": "What time do you usually knock off from work?",
+    "isLearned": false,
+    "pronunciation": "[nɒk ɒf]"
+  },
+  {
+    "word": "improvise",
+    "meaning": "doğaçlama yapmak",
+    "example": "If the demo fails, you might have to improvise.",
+    "isLearned": false,
+    "pronunciation": "['ɪmprəvaɪz]"
+  },
+  {
+    "word": "issue",
+    "meaning": "mesele, sorun, yayınlamak",
+    "example": "Please open a GitHub issue if you find a bug.",
+    "isLearned": false,
+    "pronunciation": "['ɪʃuː]"
+  },
+  {
+    "word": "condemn",
+    "meaning": "kınamak, mahkum etmek",
+    "example": "The international community will condemn the illegal acts.",
+    "isLearned": false,
+    "pronunciation": "[kən'dɛm]"
+  },
+  {
+    "word": "mindful",
+    "meaning": "dikkatli, bilincinde",
+    "example": "Be mindful of your memory usage in the app.",
+    "isLearned": false,
+    "pronunciation": "['maɪndfʊl]"
+  },
+  {
+    "word": "clear up",
+    "meaning": "düzelmek, açıklığa kavuşturmak",
+    "example": "The weather should clear up by tomorrow morning.",
+    "isLearned": false,
+    "pronunciation": "[klɪər ʌp]"
+  },
+  {
+    "word": "unattended",
+    "meaning": "sahipsiz, başıboş",
+    "example": "Do not leave your luggage unattended at the station.",
+    "isLearned": false,
+    "pronunciation": "[ˌʌnə'tɛndɪd]"
+  },
+  {
+    "word": "bring up",
+    "meaning": "çocuk büyütmek, konuyu açmak",
+    "example": "I want to bring up the performance issues in the meeting.",
+    "isLearned": false,
+    "pronunciation": "[brɪŋ ʌp]"
+  },
+  {
+    "word": "overcome",
+    "meaning": "üstesinden gelmek",
+    "example": "I had to overcome many obstacles to start a new life here.",
+    "isLearned": false,
+    "pronunciation": "[ˌoʊvər'kʌm]"
+  },
+    {
+      "word": "take up",
+      "meaning": "başlamak, meşgul olmak, yer kaplamak",
+      "example": "I want to take up Python as a new programming language.",
+      "isLearned": false,
+      "pronunciation": "(Phrasal Verb)"
+    },
+    {
+      "word": "up to date",
+      "meaning": "güncel",
+      "example": "Keep your MacBook Air 15 software up to date for better performance.",
+      "isLearned": false,
+      "pronunciation": "[ˌʌp tə 'deɪt]"
+    },
+    {
+      "word": "whereas",
+      "meaning": "oysa, halbuki",
+      "example": "I prefer using React, whereas some of my teammates prefer Next.js.",
+      "isLearned": false,
+      "pronunciation": "[weər'æz]"
+    },
+    {
+      "word": "call off",
+      "meaning": "iptal etmek",
+      "example": "They had to call off the daily stand-up meeting due to a server crash.",
+      "isLearned": false,
+      "pronunciation": "(Phrasal Verb)"
+    },
+    {
+      "word": "bring up",
+      "meaning": "konuyu açmak, çocuk büyütmek",
+      "example": "I will bring up the performance issues in our next team meeting.",
+      "isLearned": false,
+      "pronunciation": "(Phrasal Verb)"
+    },
+    {
+      "word": "once",
+      "meaning": "bir kez, olduğunda/olur olmaz",
+      "example": "Once you learn the basics of JavaScript, React becomes much easier.",
+      "isLearned": false,
+      "pronunciation": "[wʌns]"
+    },
+    {
+      "word": "layover",
+      "meaning": "aktarma, mola",
+      "example": "I had a short layover in Istanbul on my way to Lucerne.",
+      "isLearned": false,
+      "pronunciation": "['leɪ-oʊ-vər]"
+    },
+    {
+      "word": "shame",
+      "meaning": "utanç, yazık",
+      "example": "It is a shame that the API documentation is so unclear.",
+      "isLearned": false,
+      "pronunciation": "[ʃeɪm]"
+    },
+    {
+      "word": "assess",
+      "meaning": "değerlendirmek",
+      "example": "We need to assess the security of our database regularly.",
+      "isLearned": false,
+      "pronunciation": "[ə'ses]"
+    },
+    {
+      "word": "confusion",
+      "meaning": "karışıklık",
+      "example": "There was some confusion about the new folder structure in the project.",
+      "isLearned": false,
+      "pronunciation": "[kən'fjuːʒən]"
+    },
+    {
+      "word": "forage",
+      "meaning": "yiyecek aramak, (bilgi) araştırmak",
+      "example": "Developers often forage through Stack Overflow for solutions.",
+      "isLearned": false,
+      "pronunciation": "['fɒr.ɪdʒ]"
+    },
+    {
+      "word": "curriculum",
+      "meaning": "müfredat",
+      "example": "The Powercoders bootcamp curriculum is very intense and practical.",
+      "isLearned": false,
+      "pronunciation": "[kə'rɪkjʊləm]"
+    },
+    {
+      "word": "conclude",
+      "meaning": "sonuçlandırmak",
+      "example": "To conclude, we need more testing before the production release.",
+      "isLearned": false,
+      "pronunciation": "[kən'kluːd]"
+    },
+    {
+      "word": "sway",
+      "meaning": "sallanmak, etkilemek",
+      "example": "Don't let their opinions sway your technical decisions.",
+      "isLearned": false,
+      "pronunciation": "[sweɪ]"
+    },
+    {
+      "word": "dedicated",
+      "meaning": "kendini adamış, özel",
+      "example": "We have a dedicated server for our staging environment.",
+      "isLearned": false,
+      "pronunciation": "['ded.ɪ.keɪ.tɪd]"
+    },
+    {
+      "word": "allocate",
+      "meaning": "tahsis etmek, ayırmak",
+      "example": "How much RAM should we allocate for this Docker container?",
+      "isLearned": false,
+      "pronunciation": "['æl.ə.keɪt]"
+    },
+    {
+      "word": "outcome",
+      "meaning": "sonuç",
+      "example": "The outcome of the code review was very positive.",
+      "isLearned": false,
+      "pronunciation": "['aʊt.kʌm]"
+    },
+    {
+      "word": "drive",
+      "meaning": "sürmek, dürtü/istek, sürücü",
+      "example": "Her drive to learn web development is truly impressive.",
+      "isLearned": false,
+      "pronunciation": "[draɪv]"
+    },
+    {
+      "word": "tender",
+      "meaning": "hassas, yumuşak, teklif",
+      "example": "The steak at the restaurant in Lucerne was very tender.",
+      "isLearned": false,
+      "pronunciation": "['tɛn-dər]"
+    },
+    {
+      "word": "about to",
+      "meaning": "üzere olmak",
+      "example": "The server is about to restart in five minutes.",
+      "isLearned": false,
+      "pronunciation": "[ə'baʊt tə]"
+    },
+    {
+      "word": "to root",
+      "meaning": "kök salmak, desteklemek",
+      "example": "I am rooting for our team to finish the sprint on time.",
+      "isLearned": false,
+      "pronunciation": "[tə ruːt]"
+    },
+    {
+      "word": "that's no use",
+      "meaning": "faydası yok",
+      "example": "That's no use trying to fix the bug without proper logs.",
+      "isLearned": false,
+      "pronunciation": "[ðæts noʊ juːs]"
+    },
+    {
+      "word": "in question",
+      "meaning": "söz konusu",
+      "example": "The feature in question will be released in the next version.",
+      "isLearned": false,
+      "pronunciation": "[ɪn 'kwɛs.tʃən]"
+    },
+    {
+      "word": "willingly",
+      "meaning": "isteyerek, gönüllü olarak",
+      "example": "He willingly shared his knowledge about SQL with the new interns.",
+      "isLearned": false,
+      "pronunciation": "['wɪl.ɪŋ.li]"
+    },
+    {
+      "word": "funding",
+      "meaning": "fonlama, sermaye",
+      "example": "The startup received new funding for its e-commerce expansion.",
+      "isLearned": false,
+      "pronunciation": "['fʌn.dɪŋ]"
+    },
+    {
+      "word": "limb",
+      "meaning": "uzuv, ağaç dalı",
+      "example": "Don't go out on a limb with unproven technologies in a big project.",
+      "isLearned": false,
+      "pronunciation": "[lɪm]"
+    },
+    {
+      "word": "auspicious",
+      "meaning": "hayırlı, uğurlu",
+      "example": "Starting the bootcamp was an auspicious moment for my career.",
+      "isLearned": false,
+      "pronunciation": "[ɔː'spɪʃ.əs]"
+    },
+    {
+      "word": "reflective",
+      "meaning": "yansıtıcı, düşünceli",
+      "example": "The lake in Lucerne is very reflective on a sunny day.",
+      "isLearned": false,
+      "pronunciation": "[rɪ'flɛk.tɪv]"
+    },
+    {
+      "word": "steep",
+      "meaning": "dik, aşırı",
+      "example": "The learning curve for TypeScript can be quite steep initially.",
+      "isLearned": false,
+      "pronunciation": "[stiːp]"
+    },
+    {
+      "word": "file",
+      "meaning": "dosya, dosyalamak",
+      "example": "Make sure to save the file before closing your code editor.",
+      "isLearned": false,
+      "pronunciation": "[faɪl]"
+    },
+    {
+      "word": "erupt",
+      "meaning": "patlamak, aniden başlamak",
+      "example": "A conflict might erupt if the project requirements change again.",
+      "isLearned": false,
+      "pronunciation": "[ɪ'rʌpt]"
+    },
+    {
+      "word": "dexterity",
+      "meaning": "beceri, maharet",
+      "example": "Coding requires both mental dexterity and patience.",
+      "isLearned": false,
+      "pronunciation": "[dek'sterəti]"
+    },
+    {
+      "word": "what if",
+      "meaning": "ya ... olursa?",
+      "example": "What if we use a NoSQL database for this feature instead?",
+      "isLearned": false,
+      "pronunciation": "[wɒt ɪf]"
+    },
+    {
+      "word": "installment",
+      "meaning": "taksit, bölüm",
+      "example": "I am paying for my new laptop in monthly installments.",
+      "isLearned": false,
+      "pronunciation": "[ɪn'stɔːlmənt]"
+    },
+    {
+      "word": "seek",
+      "meaning": "aramak",
+      "example": "Developers seek efficiency and clarity in their code.",
+      "isLearned": false,
+      "pronunciation": "[siːk]"
+    },
+    {
+      "word": "negligence",
+      "meaning": "ihmal",
+      "example": "Security breaches are often caused by human negligence.",
+      "isLearned": false,
+      "pronunciation": "['neg.lɪ.dʒəns]"
+    },
+    {
+      "word": "brittle",
+      "meaning": "kırılgan",
+      "example": "The old legacy code is very brittle; be careful when refactoring.",
+      "isLearned": false,
+      "pronunciation": "['brɪt.əl]"
+    },
+    {
+      "word": "survive",
+      "meaning": "hayatta kalmak",
+      "example": "Our application managed to survive the high traffic load during the sale.",
+      "isLearned": false,
+      "pronunciation": "[sə'vaɪv]"
+    },
+    {
+      "word": "as far as",
+      "meaning": "... kadarıyla",
+      "example": "As far as I know, the API endpoint is working correctly.",
+      "isLearned": false,
+      "pronunciation": "[əz fɑːr æz]"
+    },
+      {
+        "word": "Be Supposed To",
+        "meaning": "-mesi gerekmek, beklenmek",
+        "example": "The function is supposed to return an array, but it returns null.",
+        "isLearned": false,
+        "pronunciation": "[bi sə'poʊzd tə]"
+      },
+      {
+        "word": "Well-Liked",
+        "meaning": "sevilen, popüler",
+        "example": "React is a well-liked library among frontend developers.",
+        "isLearned": false,
+        "pronunciation": "[wɛl laɪkt]"
+      },
+      {
+        "word": "Pour With Rain",
+        "meaning": "bardaktan boşalırcasına yağmak",
+        "example": "It started to pour with rain while we were hiking near Lucerne.",
+        "isLearned": false,
+        "pronunciation": "[pɔːr wɪð reɪn]"
+      },
+      {
+        "word": "To Amplify",
+        "meaning": "yükseltmek, artırmak",
+        "example": "We need to amplify the signal in the electronics circuit.",
+        "isLearned": false,
+        "pronunciation": "[tuː 'æmplɪfaɪ]"
+      },
+      {
+        "word": "In Response To",
+        "meaning": "-e yanıt olarak",
+        "example": "In response to the security breach, we updated all passwords.",
+        "isLearned": false,
+        "pronunciation": "[ɪn rɪ'spɒns tə]"
+      },
+      {
+        "word": "Subsequently",
+        "meaning": "sonradan, akabinde",
+        "example": "The server crashed, and subsequently, all connections were lost.",
+        "isLearned": false,
+        "pronunciation": "['sʌbsɪkwəntli]"
+      },
+      {
+        "word": "Beneficial",
+        "meaning": "faydalı, yararlı",
+        "example": "Learning TypeScript is very beneficial for your web development career.",
+        "isLearned": false,
+        "pronunciation": "[ˌbɛnɪ'fɪʃəl]"
+      },
+      {
+        "word": "Despise",
+        "meaning": "aşağılamak, nefret etmek",
+        "example": "I despise writing messy code without any comments.",
+        "isLearned": false,
+        "pronunciation": "[dɪ'spaɪz]"
+      },
+      {
+        "word": "To Make Up",
+        "meaning": "uydurmak, telafi etmek, oluşturmak",
+        "example": "I need to work extra hours to make up for the lost time.",
+        "isLearned": false,
+        "pronunciation": "[tuː meɪk ʌp]"
+      },
+      {
+        "word": "To Evaporate",
+        "meaning": "buharlaşmak, yok olmak",
+        "example": "When the project budget evaporated, we had to stop development.",
+        "isLearned": false,
+        "pronunciation": "[tuː ɪ'væpəreɪt]"
+      },
+      {
+        "word": "Self-Esteem",
+        "meaning": "özsaygı, özgüven",
+        "example": "Finishing a complex project really boosts your self-esteem.",
+        "isLearned": false,
+        "pronunciation": "[sɛlf ɪ'stiːm]"
+      },
+      {
+        "word": "Surveillance",
+        "meaning": "gözetleme, izleme",
+        "example": "The data center is under 24/7 camera surveillance.",
+        "isLearned": false,
+        "pronunciation": "[sər'veɪləns]"
+      },
+      {
+        "word": "Pay Off",
+        "meaning": "karşılığını vermek, borcunu ödemek",
+        "example": "All those late nights of coding finally paid off when I got the job.",
+        "isLearned": false,
+        "pronunciation": "[peɪ ɒf]"
+      },
+      {
+        "word": "Identical",
+        "meaning": "özdeş, tıpatıp aynı",
+        "example": "In JavaScript, '===' checks if two values are identical.",
+        "isLearned": false,
+        "pronunciation": "[aɪ'dɛntɪkəl]"
+      },
+      {
+        "word": "Distinct",
+        "meaning": "farklı, belirgin",
+        "example": "Each component in React should have a distinct responsibility.",
+        "isLearned": false,
+        "pronunciation": "[dɪ'stɪŋkt]"
+      },
+      {
+        "word": "To Piece Together",
+        "meaning": "parçaları birleştirmek",
+        "example": "It took hours to piece together the logic behind this legacy code.",
+        "isLearned": false,
+        "pronunciation": "[tuː piːs tə'ɡɛðər]"
+      },
+      {
+        "word": "On Par",
+        "meaning": "aynı seviyede, eş değer",
+        "example": "The performance of this app is on par with native applications.",
+        "isLearned": false,
+        "pronunciation": "[ɒn pɑːr]"
+      },
+      {
+        "word": "Sense of Humor",
+        "meaning": "mizah anlayışı",
+        "example": "A good sense of humor helps when debugging stressful errors.",
+        "isLearned": false,
+        "pronunciation": "[sɛns əv 'hjuːmər]"
+      },
+      {
+        "word": "Sensible",
+        "meaning": "mantıklı, akla uygun",
+        "example": "It is sensible to back up your database before migrating.",
+        "isLearned": false,
+        "pronunciation": "['sɛnsɪbəl]"
+      },
+      {
+        "word": "Mean",
+        "meaning": "anlamına gelmek, kaba, cimri",
+        "example": "What does this error message actually mean?",
+        "isLearned": false,
+        "pronunciation": "[miːn]"
+      },
+      {
+        "word": "Contradict",
+        "meaning": "çelişmek, aksini iddia etmek",
+        "example": "The logs contradict what the user reported about the bug.",
+        "isLearned": false,
+        "pronunciation": "[ˌkɒntrə'dɪkt]"
+      },
+      {
+        "word": "Involve",
+        "meaning": "içermek, dahil etmek",
+        "example": "Web development involves both technical and creative skills.",
+        "isLearned": false,
+        "pronunciation": "[ɪn'vɒlv]"
+      },
+      {
+        "word": "Boost",
+        "meaning": "artırmak, canlandırmak",
+        "example": "Adding more RAM will boost the performance of your MacBook.",
+        "isLearned": false,
+        "pronunciation": "[buːst]"
+      },
+      {
+        "word": "To Feast",
+        "meaning": "ziyafet çekmek",
+        "example": "We feasted after finishing our final bootcamp project.",
+        "isLearned": false,
+        "pronunciation": "[tuː fiːst]"
+      },
+      {
+        "word": "To Count On",
+        "meaning": "birine güvenmek/bel bağlamak",
+        "example": "You can count on me to handle the frontend tasks.",
+        "isLearned": false,
+        "pronunciation": "[tuː kaʊnt ɒn]"
+      },
+      {
+        "word": "Cause",
+        "meaning": "sebep olmak, neden",
+        "example": "A missing semicolon can cause the whole script to fail.",
+        "isLearned": false,
+        "pronunciation": "[kɔːz]"
+      },
+      {
+        "word": "Require",
+        "meaning": "gerektirmek",
+        "example": "This feature will require a new API endpoint.",
+        "isLearned": false,
+        "pronunciation": "[rɪ'kwaɪər]"
+      },
+      {
+        "word": "Identify",
+        "meaning": "tanımlamak, tespit etmek",
+        "example": "Can you identify which line of code is throwing the error?",
+        "isLearned": false,
+        "pronunciation": "[aɪ'dɛntɪfaɪ]"
+      },
+      {
+        "word": "As Long As",
+        "meaning": "-dığı sürece",
+        "example": "As long as the server is up, users can access the data.",
+        "isLearned": false,
+        "pronunciation": "[əz lɒŋ æz]"
+      },
+      {
+        "word": "End Up",
+        "meaning": "kendini bir durumda/yerde bulmak (sonuçlanmak)",
+        "example": "I started fixing a typo and ended up refactoring the whole file.",
+        "isLearned": false,
+        "pronunciation": "[ɛnd ʌp]"
+      },
+      {
+        "word": "Unsettling",
+        "meaning": "huzursuz edici",
+        "example": "It was unsettling to find a major bug just before the demo.",
+        "isLearned": false,
+        "pronunciation": "[ʌn'sɛtlɪŋ]"
+      },
+      {
+        "word": "To Go Through",
+        "meaning": "incelemek, içinden geçmek, yaşamak",
+        "example": "Let's go through the code together to find the issue.",
+        "isLearned": false,
+        "pronunciation": "[tuː ɡoʊ θruː]"
+      },
+      {
+        "word": "Secret",
+        "meaning": "gizli, sır",
+        "example": "Keep your environment variables secret and don't push them to GitHub.",
+        "isLearned": false,
+        "pronunciation": "['siːkrət]"
+      },
+      {
+        "word": "At a Time Like This",
+        "meaning": "böyle bir zamanda",
+        "example": "We shouldn't deploy new features at a time like this, right before the weekend.",
+        "isLearned": false,
+        "pronunciation": "[æt ə taɪm laɪk ðɪs]"
+      },
+      {
+        "word": "To Head Off",
+        "meaning": "yola çıkmak, önlemek",
+        "example": "We should head off early to catch the train to Zurich.",
+        "isLearned": false,
+        "pronunciation": "[tuː hɛd ɒf]"
+      },
+      {
+        "word": "To Head To",
+        "meaning": "bir yere yönelmek/gitmek",
+        "example": "I'm going to head to the rowing club after I finish this task.",
+        "isLearned": false,
+        "pronunciation": "[tuː hɛd tuː]"
+      },
+      {
+        "word": "Drawback",
+        "meaning": "dezavantaj, eksik yön",
+        "example": "The main drawback of this library is its large file size.",
+        "isLearned": false,
+        "pronunciation": "['drɔːbæk]"
+      },
+      {
+        "word": "To Stick To",
+        "meaning": "bağlı kalmak, sadık kalmak",
+        "example": "Please stick to the naming conventions we agreed on.",
+        "isLearned": false,
+        "pronunciation": "[tuː stɪk tuː]"
+      },
+      {
+        "word": "Furthermore",
+        "meaning": "dahası, ayrıca",
+        "example": "The app is fast; furthermore, it is very easy to use.",
+        "isLearned": false,
+        "pronunciation": "[ˌfɜːrðər'mɔːr]"
+      },
+      {
+        "word": "Hence",
+        "meaning": "bu nedenle, dolayısıyla",
+        "example": "The server was down, hence the error message you saw.",
+        "isLearned": false,
+        "pronunciation": "[hɛns]"
+      },
+      {
+        "word": "However",
+        "meaning": "ancak, yine de",
+        "example": "I tried to fix the bug; however, I couldn't solve it yet.",
+        "isLearned": false,
+        "pronunciation": "[haʊ'ɛvər]"
+      },
+      {
+        "word": "In Order That",
+        "meaning": "-sın diye, amacıyla",
+        "example": "We used a CDN in order that the images load faster.",
+        "isLearned": false,
+        "pronunciation": "[ɪn 'ɔːrdər ðæt]"
+      },
+      {
+        "word": "Once",
+        "meaning": "bir kez, olur olmaz",
+        "example": "Once you understand props, React becomes much clearer.",
+        "isLearned": false,
+        "pronunciation": "[wʌns]"
+      },
+      {
+        "word": "Therefore",
+        "meaning": "bu yüzden, dolayısıyla",
+        "example": "The test failed; therefore, we cannot merge this pull request.",
+        "isLearned": false,
+        "pronunciation": "['ðɛəfɔːr]"
+      },
+      {
+        "word": "Yet",
+        "meaning": "henüz, yine de",
+        "example": "I haven't finished the CSS yet.",
+        "isLearned": false,
+        "pronunciation": "[jɛt]"
+      },
+      {
+        "word": "To Be Likely To",
+        "meaning": "muhtemel olmak",
+        "example": "It is likely to rain in Lucerne tomorrow.",
+        "isLearned": false,
+        "pronunciation": "[tuː bi 'laɪkli tuː]"
+      },
+      {
+        "word": "Alibi",
+        "meaning": "suç anında başka yerde olduğunu ispatlayan kanıt",
+        "example": "The suspect had a perfect alibi for the night of the crime.",
+        "isLearned": false,
+        "pronunciation": "['æləbaɪ]"
+      },
+      {
+        "word": "Impolite",
+        "meaning": "kaba, nezaketsiz",
+        "example": "It is impolite to interrupt someone during a meeting.",
+        "isLearned": false,
+        "pronunciation": "[ˌɪmpə'laɪt]"
+      },
+      {
+        "word": "Primitive",
+        "meaning": "ilkel, basit",
+        "example": "String and Number are primitive data types in JavaScript.",
+        "isLearned": false,
+        "pronunciation": "['prɪmɪtɪv]"
+      },
+      {
+        "word": "To Deal With",
+        "meaning": "başa çıkmak, uğraşmak",
+        "example": "I have to deal with many merge conflicts today.",
+        "isLearned": false,
+        "pronunciation": "[tuː diːl wɪð]"
+      },
+      {
+        "word": "Security Breach",
+        "meaning": "güvenlik ihlali",
+        "example": "A security breach exposed thousands of user emails.",
+        "isLearned": false,
+        "pronunciation": "[sɪ'kjʊərɪti briːtʃ]"
+      },
+      {
+        "word": "Come Across",
+        "meaning": "karşılaşmak, denk gelmek",
+        "example": "I came across a very useful React tutorial today.",
+        "isLearned": false,
+        "pronunciation": "[kʌm ə'krɒs]"
+      },
+      {
+        "word": "Affection",
+        "meaning": "sevgi, şefkat",
+        "example": "He has a great affection for his two children.",
+        "isLearned": false,
+        "pronunciation": "[ə'fɛkʃən]"
+      },
+      {
+        "word": "Unity",
+        "meaning": "birlik, bütünlük",
+        "example": "Team unity is important for a successful project.",
+        "isLearned": false,
+        "pronunciation": "['juːnɪti]"
+      },
+      {
+        "word": "One Another",
+        "meaning": "birbirini/birbirine",
+        "example": "We should help one another during the bootcamp.",
+        "isLearned": false,
+        "pronunciation": "[wʌn ə'nʌðər]"
+      },
+      {
+        "word": "Hassle",
+        "meaning": "zorluk, zahmet",
+        "example": "Setting up a printer is always such a hassle.",
+        "isLearned": false,
+        "pronunciation": "['hæsəl]"
+      },
+      {
+        "word": "Overly",
+        "meaning": "aşırı derecede",
+        "example": "Don't be overly worried about the technical interview.",
+        "isLearned": false,
+        "pronunciation": "['oʊvərli]"
+      },
+      {
+        "word": "To Fool",
+        "meaning": "kandırmak, aldatmak",
+        "example": "Don't let the simple UI fool you; the backend is very complex.",
+        "isLearned": false,
+        "pronunciation": "[tuː fuːl]"
+      },
+      {
+        "word": "Sweat",
+        "meaning": "terlemek, ter",
+        "example": "I was sweating during my first live coding challenge.",
+        "isLearned": false,
+        "pronunciation": "[swɛt]"
+      },
+      {
+        "word": "Rather Than",
+        "meaning": "-den ziyade, yerine",
+        "example": "Use 'map' rather than a 'for' loop for cleaner code.",
+        "isLearned": false,
+        "pronunciation": "['rɑːðər ðæn]"
+      },
+      {
+        "word": "Contemporary",
+        "meaning": "çağdaş, modern",
+        "example": "Contemporary web design focuses on mobile-first approaches.",
+        "isLearned": false,
+        "pronunciation": "[kən'tɛmpərəri]"
+      },
+      {
+        "word": "Faint",
+        "meaning": "bayılmak, solgun, hafif",
+        "example": "There was a faint smell of smoke in the server room.",
+        "isLearned": false,
+        "pronunciation": "[feɪnt]"
+      },
+      {
+        "word": "Sprain",
+        "meaning": "burkmak, incitmek",
+        "example": "I hope I don't sprain my wrist while rowing.",
+        "isLearned": false,
+        "pronunciation": "[spreɪn]"
+      },
+      {
+        "word": "Vivid",
+        "meaning": "canlı, parlak",
+        "example": "The colors on the MacBook Air 15 screen are very vivid.",
+        "isLearned": false,
+        "pronunciation": "['vɪvɪd]"
+      },
+      {
+        "word": "Take Out",
+        "meaning": "dışarı çıkarmak, (yemek) sipariş etmek",
+        "example": "I'll take out the trash before I start coding.",
+        "isLearned": false,
+        "pronunciation": "[teɪk aʊt]"
+      },
+      {
+        "word": "Put On",
+        "meaning": "giymek, (ekrana) koymak",
+        "example": "Put on your jacket; it's cold outside in Lucerne.",
+        "isLearned": false,
+        "pronunciation": "[pʊt ɒn]"
+      },
+      {
+        "word": "Go For",
+        "meaning": "seçmek, denemek, hedeflemek",
+        "example": "I think I will go for the dark mode option for the UI.",
+        "isLearned": false,
+        "pronunciation": "[ɡoʊ fɔːr]"
+      },
+      {
+        "word": "Revise",
+        "meaning": "gözden geçirmek, düzeltmek",
+        "example": "I need to revise my React notes before the exam.",
+        "isLearned": false,
+        "pronunciation": "[rɪ'vaɪz]"
+      },
+      {
+        "word": "Apply",
+        "meaning": "başvurmak, uygulamak",
+        "example": "I am going to apply for a junior developer position soon.",
+        "isLearned": false,
+        "pronunciation": "[ə'plaɪ]"
+      },
+      {
+        "word": "Close By",
+        "meaning": "yakınlarda",
+        "example": "The rowing club is close by my house.",
+        "isLearned": false,
+        "pronunciation": "[kloʊs baɪ]"
+      },
+      {
+        "word": "On the Way To",
+        "meaning": "-e giderken, yolunda",
+        "example": "I'll drop the kids off at school on the way to the bootcamp.",
+        "isLearned": false,
+        "pronunciation": "[ɒn ðə weɪ tuː]"
+      },
+      {
+        "word": "Drop Off",
+        "meaning": "bırakmak (birini/bir şeyi), azalmak",
+        "example": "Can you drop me off at the train station?",
+        "isLearned": false,
+        "pronunciation": "[drɒp ɒf]"
+      },
+      {
+        "word": "Consecutive",
+        "meaning": "ardışık, birbirini izleyen",
+        "example": "I have worked on this bug for three consecutive days.",
+        "isLearned": false,
+        "pronunciation": "[kən'sɛkjʊtɪv]"
+      },
+      {
+        "word": "Ahead Of",
+        "meaning": "önünde",
+        "example": "We are currently ahead of schedule for our project.",
+        "isLearned": false,
+        "pronunciation": "[ə'hɛd əv]"
+      },
+      {
+        "word": "To Set The Pace",
+        "meaning": "tempoyu belirlemek",
+        "example": "As a senior dev, you need to set the pace for the team.",
+        "isLearned": false,
+        "pronunciation": "[tuː sɛt ðə peɪs]"
+      },
+        {
+          "word": "Feature",
+          "meaning": "özellik",
+          "example": "We are adding a new payment feature to our e-commerce project.",
+          "isLearned": false,
+          "pronunciation": "['fiːtʃər]"
+        },
+        {
+          "word": "Honored",
+          "meaning": "onurlandırılmış, onur duymak",
+          "example": "I am honored to be a part of the Powercoders program.",
+          "isLearned": false,
+          "pronunciation": "['ɒn.ərd]"
+        },
+        {
+          "word": "Rates",
+          "meaning": "oranlar, ücretler",
+          "example": "We need to check the conversion rates of our WordPress site.",
+          "isLearned": false,
+          "pronunciation": "[reɪts]"
+        },
+        {
+          "word": "Go Over",
+          "meaning": "gözden geçirmek, incelemek",
+          "example": "Let's go over the code together before we push it to GitHub.",
+          "isLearned": false,
+          "pronunciation": "[ɡoʊ 'oʊ.vər]"
+        },
+        {
+          "word": "To Tend",
+          "meaning": "eğilimi olmak, bakmak",
+          "example": "Junior developers tend to make mistakes with complex state management.",
+          "isLearned": false,
+          "pronunciation": "[tə tɛnd]"
+        },
+        {
+          "word": "Affect",
+          "meaning": "etkilemek",
+          "example": "This bug will negatively affect the user experience.",
+          "isLearned": false,
+          "pronunciation": "[ə'fɛkt]"
+        },
+        {
+          "word": "Exist",
+          "meaning": "var olmak",
+          "example": "The file does not exist in the specified directory.",
+          "isLearned": false,
+          "pronunciation": "[ɪɡ'zɪst]"
+        },
+        {
+          "word": "Remain",
+          "meaning": "geriye kalmak, sürdürmek",
+          "example": "Few tasks remain before the project is completed.",
+          "isLearned": false,
+          "pronunciation": "[rɪ'meɪn]"
+        },
+        {
+          "word": "Fill",
+          "meaning": "doldurmak",
+          "example": "Please fill out the contact form on the website.",
+          "isLearned": false,
+          "pronunciation": "[fɪl]"
+        },
+        {
+          "word": "Form",
+          "meaning": "form, oluşturmak",
+          "example": "We can form a new team for the upcoming hackathon.",
+          "isLearned": false,
+          "pronunciation": "[fɔːrm]"
+        },
+        {
+          "word": "To Go Wrong",
+          "meaning": "ters gitmek, hata yapmak",
+          "example": "Something might go wrong if we don't handle the error properly.",
+          "isLearned": false,
+          "pronunciation": "[tə ɡoʊ rɒŋ]"
+        },
+        {
+          "word": "To Relate",
+          "meaning": "ilgili olmak, ilişkilendirmek",
+          "example": "I can relate to the challenges of living as an immigrant in Lucerne.",
+          "isLearned": false,
+          "pronunciation": "[rɪ'leɪt]"
+        },
+        {
+          "word": "To Refer To",
+          "meaning": "atıfta bulunmak, yönlendirmek",
+          "example": "Please refer to the documentation for API usage details.",
+          "isLearned": false,
+          "pronunciation": "[rɪ'fɜːr tuː]"
+        },
+        {
+          "word": "Economic",
+          "meaning": "ekonomik",
+          "example": "The economic situation in Switzerland is quite stable.",
+          "isLearned": false,
+          "pronunciation": "[ˌiː.kə'nɒm.ɪk]"
+        },
+        {
+          "word": "On-Site",
+          "meaning": "yerinde (ofiste)",
+          "example": "The job requires working on-site in Lucerne twice a week.",
+          "isLearned": false,
+          "pronunciation": "[ɒn saɪt]"
+        },
+        {
+          "word": "Entirely",
+          "meaning": "tamamen",
+          "example": "The website was rebuilt entirely using Next.js.",
+          "isLearned": false,
+          "pronunciation": "[ɪn'taɪər.li]"
+        },
+        {
+          "word": "Nearly",
+          "meaning": "neredeyse",
+          "example": "I have been living in Lucerne for nearly three years.",
+          "isLearned": false,
+          "pronunciation": "['nɪər.li]"
+        },
+        {
+          "word": "Determine",
+          "meaning": "belirlemek, karar vermek",
+          "example": "We need to determine the cause of the slow loading speed.",
+          "isLearned": false,
+          "pronunciation": "[dɪ'tɜːr.mɪn]"
+        },
+        {
+          "word": "Surface",
+          "meaning": "yüzey, açığa çıkmak",
+          "example": "New bugs began to surface after the latest update.",
+          "isLearned": false,
+          "pronunciation": "[ə 'sɜːr.fɪs]"
+        },
+        {
+          "word": "To Matter",
+          "meaning": "önemli olmak",
+          "example": "Clean code matters more than finishing tasks quickly.",
+          "isLearned": false,
+          "pronunciation": "[tə 'mæt.ər]"
+        },
+        {
+          "word": "Concept",
+          "meaning": "kavram",
+          "example": "React's component-based concept is very powerful.",
+          "isLearned": false,
+          "pronunciation": "['kɒn.sɛpt]"
+        },
+        {
+          "word": "Factor",
+          "meaning": "faktör, etken",
+          "example": "Performance is a key factor for our app's success.",
+          "isLearned": false,
+          "pronunciation": "['fæk.tər]"
+        },
+        {
+          "word": "Outdated",
+          "meaning": "modası geçmiş, güncel olmayan",
+          "example": "We shouldn't use outdated libraries in our project.",
+          "isLearned": false,
+          "pronunciation": "[ˌaʊt'deɪ.tɪd]"
+        },
+        {
+          "word": "Updated",
+          "meaning": "güncellenmiş",
+          "example": "Is your portfolio updated with your latest projects?",
+          "isLearned": false,
+          "pronunciation": "[ʌp'deɪ.tɪd]"
+        },
+        {
+          "word": "Stain",
+          "meaning": "leke",
+          "example": "I got a coffee stain on my shirt during the coding session.",
+          "isLearned": false,
+          "pronunciation": "[steɪn]"
+        },
+        {
+          "word": "Simply",
+          "meaning": "basitçe, sadece",
+          "example": "You can simply use a ternary operator here.",
+          "isLearned": false,
+          "pronunciation": "['sɪm.pli]"
+        },
+        {
+          "word": "Particularly",
+          "meaning": "özellikle",
+          "example": "I am particularly interested in frontend development.",
+          "isLearned": false,
+          "pronunciation": "[pər'tɪk.jə.lər.li]"
+        },
+        {
+          "word": "To Lose Weight",
+          "meaning": "kilo vermek",
+          "example": "Hiking and rowing in Lucerne help me lose weight.",
+          "isLearned": false,
+          "pronunciation": "[tə luːz weɪt]"
+        },
+        {
+          "word": "To Point Out",
+          "meaning": "işaret etmek, belirtmek",
+          "example": "The senior developer pointed out a security flaw in my code.",
+          "isLearned": false,
+          "pronunciation": "[tə pɔɪnt aʊt]"
+        },
+        {
+          "word": "Exclude",
+          "meaning": "hariç tutmak",
+          "example": "Make sure to exclude the node_modules folder from your Git repository.",
+          "isLearned": false,
+          "pronunciation": "[ɪk'skluːd]"
+        },
+        {
+          "word": "To cultivate",
+          "meaning": "geliştirmek, ekip biçmek",
+          "example": "It takes time to cultivate the skills needed for full-stack development.",
+          "isLearned": false,
+          "pronunciation": "['kʌl.tɪ.veɪt]"
+        },
+        {
+          "word": "To withstand",
+          "meaning": "direnmek, dayanmak",
+          "example": "The server must withstand high traffic during the sales period.",
+          "isLearned": false,
+          "pronunciation": "[wɪð'stænd]"
+        },
+        {
+          "word": "Vulnerable",
+          "meaning": "hassas, korunmasız",
+          "example": "Without proper authentication, the database is vulnerable to attacks.",
+          "isLearned": false,
+          "pronunciation": "['vʌl.nər.ə.bəl]"
+        },
+        {
+          "word": "Boost",
+          "meaning": "artırmak, desteklemek",
+          "example": "Using a CDN can boost the performance of our website.",
+          "isLearned": false,
+          "pronunciation": "[buːst]"
+        },
+        {
+          "word": "Obsess",
+          "meaning": "saplantı haline getirmek",
+          "example": "Don't obsess over small details; focus on the main functionality first.",
+          "isLearned": false,
+          "pronunciation": "[əb'sɛs]"
+        },
+        {
+          "word": "Beloved",
+          "meaning": "sevgili, çok sevilen",
+          "example": "Lucerne is a beloved city for many tourists.",
+          "isLearned": false,
+          "pronunciation": "[bɪ'lʌvɪd]"
+        },
+        {
+          "word": "In Relation To",
+          "meaning": "ile ilgili olarak",
+          "example": "We discussed the project budget in relation to the new requirements.",
+          "isLearned": false,
+          "pronunciation": "[ɪn rɪ'leɪ.ʃən tuː]"
+        },
+        {
+          "word": "Yield",
+          "meaning": "verim, ürün vermek, (yazılım) sonuç döndürmek",
+          "example": "The generator function in JavaScript will yield a value each time it's called.",
+          "isLearned": false,
+          "pronunciation": "[jiːld]"
+        },
+        {
+          "word": "File",
+          "meaning": "dosya, dosyalamak",
+          "example": "I need to upload the configuration file to the server.",
+          "isLearned": false,
+          "pronunciation": "[faɪl]"
+        },
+        {
+          "word": "Assert",
+          "meaning": "iddia etmek, (yazılım) doğrulamak",
+          "example": "We use testing libraries to assert that our code behaves correctly.",
+          "isLearned": false,
+          "pronunciation": "[ə'sɜːrt]"
+        }
+]
+
